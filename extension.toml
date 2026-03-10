@@ -1,0 +1,7 @@
+id = "high-contrast-zed"
+name = "High Contrast Zed"
+schema_version = 1
+version = "0.1.0"
+authors = ["Rakshit <rakshit087@gmail.com>"]
+description = "👓 High contrast variants of your favorite dark themes for Zed"
+repository = "https://github.com/rakshit087/high-contrast-zed/"
