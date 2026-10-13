@@ -76,7 +76,7 @@ High-contrast variants of your favorite dark themes for Zed — designed for max
 
 1. Open Zed.
 2. Open the command palette (<kbd>Cmd</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>) and enter _zed: extensions_.
-3. Search for _High Contrast Zed_ and install the extension.
+3. Search for _High Contrast Themes_ and install the extension.
 4. Enter _theme selector: toggle_ in the command palette and select your preferred High Contrast theme from the dropdown.
 
 ### Manual Installation
